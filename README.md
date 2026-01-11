@@ -1,23 +1,33 @@
 # Hi there, I'm Khussal 👋
 
-I'm a Master's in Computer Science student at Texas A&M University (Aggie '27 🎓) with a background in building scalable, high-performance software.
+I'm a Master's in Computer Science student at Texas A&M University (Aggie '27 🎓) and a former Deputy Manager at RBL Bank.
 
-My professional experience is in **Backend Systems** and **Automation**. My core expertise includes:
-* Distributed Systems
-* Event-Driven Architecture
-* Asynchronous Processing
-* API Design & Optimization
+I specialize in **Backend Systems**, **Automation**, and **Information Retrieval**. My engineering philosophy centers on efficiency—whether that’s reducing query latency or eliminating manual operational toil.
 
-- 🔭 I’m currently seeking **Summer 2026 Software Engineering internship** opportunities.
-- 🌱 I’m always learning about performance optimization and building LLM-powered apps.
-- 💬 Ask me about: Python, Java, Django, Spring Boot, or building enterprise automation with tools like Nutanix & Citrix.
-- 📫 How to reach me: [pradhankhu@gmail.com](mailto:pradhankhu@gmail.com)
+- 🔭 **Seeking:** Summer 2026 Software Engineering Internships (Backend / Full Stack).
+- 💼 **Experience:** Previously automated 250+ enterprise workflows at RBL Bank, saving 80% manual effort.
+- 🌱 **Current Focus:** Building hybrid retrieval engines with OpenSearch & BERT.
+- 💬 **Ask me about:** Python, Java, Spring Boot, or automating infrastructure with Nutanix & Citrix.
+- 📫 **Contact:** [pradhankhu@gmail.com](mailto:pradhankhu@gmail.com)
 
 <p align="left">
+  <a href="https://khussalpradhan-520f32dcece8.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/khussal-pradhan-896b11186/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+---
+
+### 🚀 Recent Builds
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Clinical Trial Search Engine** | A hybrid retrieval system combining BM25 and FAISS vector search (PubMedBERT) to match patient profiles against NCI protocols. | Python, FastAPI, OpenSearch, Docker, BERT |
+| **LinkedOut** | A scalable professional networking platform with verified referral ecosystems and domain-specific email validation. | Ruby on Rails, PostgreSQL, RSpec, Heroku |
+| **RBL Bank Automation** | (Professional Work) Engineered automation pipelines for Citrix DaaS and VM provisioning, cutting infra delivery time by 70%. | Python, PowerShell, Nutanix APIs, Redis |
 
 ---
 
@@ -39,9 +49,11 @@ My professional experience is in **Backend Systems** and **Automation**. My core
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
 
 **Databases, Cloud & Tools**
@@ -52,9 +64,8 @@ My professional experience is in **Backend Systems** and **Automation**. My core
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  [<img src="httpsS://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Nutanix-024DA1?style=for-the-badge&logo=nutanix&logoColor=white" alt="Nutanix">
-  <img src="https://img.shields.io/badge/Citrix-000000?style=for-the-badge&logo=citrix&logoColor=white" alt="Citrix">
 </p>
 
 ---
